@@ -1,7 +1,7 @@
 # hello-world
-my first git repository
-well, is this really goig to appear in this repository? 
+My first git repository. How exciting! 
+Well, is this really going to appear in this repository? 
 
-who knows/ 
+Who knows? It's a mystery. 
 
-i guess we'll find out soon enough...
+I guess we'll find out soon enough...
